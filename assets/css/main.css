@@ -3807,9 +3807,9 @@
 
 		#header .logo {
 			border-bottom: 0;
-			color: inherit;
+			color: #f56a6a;
 			font-family: "Roboto Slab", serif;
-			font-size: 1.125em;
+			/*font-size: 1.125em;*/
 		}
 
 		#header .icons {
