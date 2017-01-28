@@ -2115,12 +2115,11 @@
 		a:hover {
 			border-bottom-color: #f56a6a;
 			color: #f56a6a !important;
-			text-decoration: none;
-		}
+			 		}
 
 			a:hover strong {
 				color: inherit;
-					text-decoration: none;
+
 			}
 
 	strong, b {
@@ -4064,4 +4063,7 @@
 			border-top: 0;
 			margin-top: 0;
 			padding-top: 0;
+		}
+		#where > h2{
+			text-align: center;
 		}
